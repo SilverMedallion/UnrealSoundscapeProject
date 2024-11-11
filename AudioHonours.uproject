@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{73B3C2F5-4513-898E-1116-67B5F9D8D059}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AudioHonours",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
